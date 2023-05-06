@@ -14,7 +14,7 @@
 
 ## Trabajaremos con el metodo Scrum de la siguiente forma: 
 
-| **Semanas** | **Scrum Master** |
+| **Semanas** | **Scrum Master** |  **Proyectos**  |
 | ---- | ---- |
 |          24/04/2023 | *Roberto Perez* |
 | 01/05/2023 | *Andrea Llavel* |
