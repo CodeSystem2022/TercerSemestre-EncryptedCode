@@ -1,3 +1,4 @@
+Clase 4 : Realizado por Lucas Limachi
 let x = 10;
 
 console.log(x.length);
@@ -79,7 +80,7 @@ console.log(personaArray);
 let personaString = JSON.stringify(persona);
 console.log(personaString)
 
-
+Clase 5 : Editada por Lucas Limachi
 //get obtener y set modificar
 console.log("comenzamos a utilizar el metodo get");
 console.log(persona.nombreEdad);
