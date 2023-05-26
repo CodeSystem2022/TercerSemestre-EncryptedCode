@@ -1,3 +1,4 @@
+# Juego Snake en Python por Andrea Llavel
 import pygame as pg
 from random import randrange
 
