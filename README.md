@@ -21,7 +21,7 @@
 | 08/05/2023 | *Rocio Pulitta* |
 | 20/05/2023 | *Andrea Llavel* |
 | 23/05/2023 | *Lucas Limachi* |
-| 30/05/2023  | *Roberto Perez* |
+| 30/05/2023  | *Luis Mayorga* |
 | 06/06/2023 | *Andrea Llavel* |
 | 14/06/2023| *Rocio Pulitta* |
 | 21/06/2023| *Luis Mayorga* |
