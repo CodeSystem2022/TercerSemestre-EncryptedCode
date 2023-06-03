@@ -1,4 +1,4 @@
-
+//TipoEscritura.java
 package domain;
 
 public enum TipoEscritura {
