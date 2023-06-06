@@ -22,8 +22,8 @@
 | 20/05/2023 | *Andrea Llavel* |
 | 23/05/2023 | *Lucas Limachi* |
 | 30/05/2023  | *Luis Mayorga* |
-| 06/06/2023 | *Andrea Llavel* |
-| 14/06/2023| *Rocio Pulitta* |
-| 21/06/2023| *Luis Mayorga* |
+| 06/06/2023 | *Rocio Pulitta* |
+| 14/06/2023| *Roberto Perez* |
+| 21/06/2023| *Andrea Llavel* |
 
  ![image](https://user-images.githubusercontent.com/112596102/236117698-cd113ed1-b1f5-47bb-863e-d5e3858ce22d.png)
