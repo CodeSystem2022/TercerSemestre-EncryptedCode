@@ -8,7 +8,6 @@ public class CalculadoraUTN {
             try {
                 var operacion = Integer.parseInt(entrada.nextLine());
                     if (operacion >= 1 && operacion <= 4) {
-
                         ejecutarOperacion(operacion, entrada);
 
                     } // Fin del if
