@@ -39,19 +39,7 @@ archivo2.close()   #Cerramos el segundo archivo
 print('Se ha terminado el proceso de leer y copiar archivos')
 #Las veces que nosostros copiemos , se anexa a lo que ya estaba copiado
 #Si ejecutamos "w" en lugar de "a" quitara el acceso de archivo que tenia
-#                                  ..........***** ManejoArchivos.py******...........
-class ManejoArchivos:
-    def __init__(self, nombre):
-        self.nombre = nombre
 
-    def __enter__(self):
-        print('Obtenemos el recurso'.center(50, '-'))
-        self.nombre = open(self.nombre, 'r', encoding='utf8')    #Encapsulamos el codigo dentro del metodo
-        return self.nombre
-    def __exit__(self, tipo_exception, valor_exception, traza_error):
-        print('cerramos el recurso'.center(50, '-'))
-        if self.nombre:
-            self.nombre.close()   #Cerramos ahi el archivo
    #                                ........... ***archivos_con_with.py***..............
    from ManejoArchivos import ManejoArchivos
 #Manejo de Contexto with:sintaxis simplificada, abre y cierra el archivo
