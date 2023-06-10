@@ -1,3 +1,4 @@
+#Rocio Pulitta
 #Pelicula.py
 class Pelicula:
     def __int__(self, nombre):
