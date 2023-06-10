@@ -1,3 +1,4 @@
+//Andrea Llavel
 //while significa mientras
 let contador = 0;
 while(contador < 3){
