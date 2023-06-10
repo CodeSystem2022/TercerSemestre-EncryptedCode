@@ -1,4 +1,4 @@
-//DispositivoEntrada.java /Rocio Pulitta
+//DispositivoEntrada.java /Rocio Pulitta.
 
 package ar.com.system2023.mundopc;
 
