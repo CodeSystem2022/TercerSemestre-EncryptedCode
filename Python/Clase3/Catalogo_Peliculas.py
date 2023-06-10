@@ -1,4 +1,5 @@
- #Catalogo_Peliculas.py
+#Rocio Pulitta
+#Catalogo_Peliculas.py
  import os
 
 class CatalogoPeliculas:
