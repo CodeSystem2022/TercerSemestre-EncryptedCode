@@ -1,4 +1,4 @@
-//Andrea Llavel (Perte final)
+//Andrea Llavel (Segunda Parte hasta el final)
 package accesodatos;
 
 public class ImplementacionOracle implements IAccesoDatos {
