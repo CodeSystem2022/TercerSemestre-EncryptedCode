@@ -1,4 +1,4 @@
-//Andrea Llavel
+//Andrea Llavel Issue JavaBeans semana de Scrum Master Rocio Pulitta
 package domain;
 
 import java.io.Serializable;   //Serializable: significa convertir nuestro objeto a ceros y unos
