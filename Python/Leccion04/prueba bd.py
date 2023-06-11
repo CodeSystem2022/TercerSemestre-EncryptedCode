@@ -1,4 +1,3 @@
-#Roberto Perez
 import psycopg2
 
 try:
