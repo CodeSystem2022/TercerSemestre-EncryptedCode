@@ -1,4 +1,4 @@
-//Andrea Llavel
+//Andrea Llavel Issue TestJavaBeans , en semana de Rocio Pulitta
 package test;
 
 import domain.Persona;
