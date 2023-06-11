@@ -1,4 +1,4 @@
-
+//Andrea Llavel segunda parte hasta el final.
 package accesodatos;
 
 public class ImplementacionMysql implements IAccesoDatos {
