@@ -1,4 +1,4 @@
-//Andrea Llavel segunda parte hasta el final.
+//Roberto Perez Bertoli 
 package accesodatos;
 
 public class ImplementacionMysql implements IAccesoDatos {
