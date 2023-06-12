@@ -1,4 +1,4 @@
-
+# Andrea Llavel
 # para leer un archivo read es el mod por default
 archivo = open('prueba.txt', 'r', encoding='utf8')  #las letras son : r(read),a(append),w(write),x(crea)
 # print(archivo.read())
