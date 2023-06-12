@@ -1,4 +1,4 @@
-Clase 4 : Realizado por Lucas Limachi
+//Clase 4 : Realizado por Andrea Llavel y clase 5 corresponde a Lucas Limachi
 let x = 10;
 
 console.log(x.length);
