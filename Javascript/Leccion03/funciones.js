@@ -1,3 +1,4 @@
+//Luis Mayorga
 miFuncion(8,2); //Esto se le conoce como Hosting
 
 function miFuncion(a,b){
