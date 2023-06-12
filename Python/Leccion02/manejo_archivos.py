@@ -1,3 +1,4 @@
+# Andrea Llavel
 # declaramos una variable
 try:                       #Crear un archivo a traves del metodo open
     archivo = open('prueba.txt', 'w', encoding='utf8')   # w significa escribir
