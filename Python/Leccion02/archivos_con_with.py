@@ -1,3 +1,4 @@
+#Andrea Llavel
 from ManejoArchivos import ManejoArchivos
 #Manejo de Contexto with:sintaxis simplificada, abre y cierra el archivo
 #with open('prueba.txt', 'r', encoding='utf8') as archivo:
