@@ -9,6 +9,7 @@ class Persona{      //Clase Padre
         this._nombre = nombre;
         this._apellido = apellido;
     }
+    //Luis Mayorga Carga metodo get y set
 //Metodo Get
     get apellido(){
        // return this._nombre;
