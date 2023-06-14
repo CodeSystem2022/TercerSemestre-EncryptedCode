@@ -1,4 +1,4 @@
-
+// Lucas Limachi - Scrum Master Rocio Pulitta
 // Para realizar la prueba se cargan todas las clases
 
 class Persona{
@@ -111,7 +111,7 @@ class Cliente extends Persona{
 }
 
 // Prueba clase Persona
-
+// Se agregan objetos personas
 
 let persona1 = new Persona('Juan', 'Perez', 32)
 console.log(persona1.toString());
