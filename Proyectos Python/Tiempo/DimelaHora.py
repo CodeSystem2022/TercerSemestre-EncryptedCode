@@ -1,3 +1,4 @@
+# Andrea Llavel.
 import pygame  
 from datetime import datetime 
 import math
