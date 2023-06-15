@@ -1,4 +1,4 @@
-
+//Lucas Limachi
 //let persona3 = new Persona("carla", "ponce"); //esto no se puede hacer: persona is not defined
 //clase padre
 class Persona{
