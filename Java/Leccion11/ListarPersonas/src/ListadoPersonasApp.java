@@ -1,3 +1,4 @@
+//Andrea Llavel .Leccion 11: (ListarPersonasApp.java y Persona.java) En IntelliJ. En la Leccion 10 subi el UML de Persona.uxf
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
