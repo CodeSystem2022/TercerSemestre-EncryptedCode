@@ -1,3 +1,4 @@
+//Roberto Perez
 window.human = false;
 var canvasEl = document.querySelector('.fireworks');
 var ctx = canvasEl.getContext('2d');
