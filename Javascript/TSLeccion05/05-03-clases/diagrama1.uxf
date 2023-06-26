@@ -1,0 +1,32 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>320</x><y>30</y><w>210</w><h>210</h></coordinates><panel_attributes>Persona
+
+--
+_idPersona: number
+_nombre: string
+_apellido: string
+_edad: number
+--
+getIdPersona():number
+getNombre():string
+setNombre():string
+getApellido():string
+getEdad(): number
+setEdad(string)
+toString()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>130</x><y>300</y><w>210</w><h>190</h></coordinates><panel_attributes>Empleado
+--
+_idEmpleado: Long
+_sueldo: number
+--
+setIdEmpleado(): number
+getSueldo(): number
+setSueldo(number)
+toString()</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>430</x><y>300</y><w>210</w><h>190</h></coordinates><panel_attributes>Cliente
+--
+_idCliente: number
+_fecha de registro:Date
+
+--
+getIdCliente
+getFechaRegistro():Date
+setFechaRegistro(Date)
+toString()</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>270</x><y>250</y><w>180</w><h>70</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;50;10;10;160;10</additional_attributes></element><element><id>Relation</id><coordinates><x>410</x><y>230</y><w>190</w><h>50</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;30;170;20</additional_attributes></element><element><id>Relation</id><coordinates><x>550</x><y>240</y><w>30</w><h>80</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;60;10;10</additional_attributes></element></diagram>
