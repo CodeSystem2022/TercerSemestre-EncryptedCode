@@ -1,4 +1,4 @@
--- Andrea LLavel:Instalacion y trabajar en Crud ,Mysql.A la base de datos le puse otors nombres porque no podia utilizar los mismos 
+-- Andrea LLavel:Instalacion y trabajar en Crud ,Mysql.A la base de datos le puse otors nombres porque no podia utilizar los mismos.Clase 11 .Parte 1 y 2.
 -- Nombres que ya habia ulizado."estudiantes = encrypted",la tabla "estudiantes2022= encryptedcode"
 -- Por ese motivo aparecemos los integrantes de Encrypted Code en el codigo
 -- Comenzamos con CRUD: create(insertar), read(leer), update(actualizar), delete(eliminar)
