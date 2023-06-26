@@ -1,3 +1,4 @@
+--Andrea LLavel:Instalacion y trabajar en Crud ,Mysql
 -- Comenzamos con CRUD: create(insertar), read(leer), update(actualizar), delete(eliminar)
 -- Listar los estudiantes (read)
 SELECT * FROM encrypted.encryptedcode;
