@@ -1,4 +1,4 @@
-
+//Proyecto Estudiantes por***" Roberto Perez"*****.Correspondiente a Sincronizacion con Maven y agregar dependencias
 import conexion.Conexion;
 public class Main {
 
