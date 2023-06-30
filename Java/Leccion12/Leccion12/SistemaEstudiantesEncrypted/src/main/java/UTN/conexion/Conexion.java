@@ -1,3 +1,5 @@
+//Andrea Llavel.Cuando instale Mysql, cree una base de datos que se me pisaban los datos de estudiantes ;con nuestro proyecto integrador final.
+//Entonces cambie los datos estudiantes, por "encrypted". Y tambien los datos de como se creaba la tabla, ysu postrior trabajo porque no me permitia realizarlo
 package UTN.conexion;
 
 
