@@ -1,4 +1,4 @@
-//Rocio Pulitta
+//Rocio Pulitta.
 package paquete2;
 
 public class Clase4 {
