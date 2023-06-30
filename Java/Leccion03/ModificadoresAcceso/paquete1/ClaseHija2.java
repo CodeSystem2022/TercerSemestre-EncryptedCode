@@ -1,3 +1,4 @@
+//Rocio Pulitta
 package paquete1;
 
 public class ClaseHija2 extends Clase2{
