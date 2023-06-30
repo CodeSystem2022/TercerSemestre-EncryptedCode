@@ -1,0 +1,40 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>80</x><y>10</y><w>270</w><h>300</h></coordinates><panel_attributes>Orden
+--
+idOrden: number
+productos[]: Producto
+contadorProductosAgregados: number
+contadorOrdenes: number
+MAX PRODUCTOS: number = 5
+--
+Orden()
+agregarProducto(producto)
+calcularTotal(): number
+mostrarOrden()
+--
+Responsabilidades
+-- Crear objeto Orden
+*-- Administrar los productos de un orden*</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>520</x><y>20</y><w>210</w><h>190</h></coordinates><panel_attributes>VentasTest
+--
+Esto no es una clase.
+Es la prueba de creación
+de objetos Producto y Orden
+--
+Responsabilidades
+-- Ejecutar la aplicación
+de Ventas</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>340</x><y>80</y><w>80</w><h>30</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>10;10;60;10</additional_attributes></element><element><id>Relation</id><coordinates><x>390</x><y>80</y><w>150</w><h>30</h></coordinates><panel_attributes>lt=&lt;..</panel_attributes><additional_attributes>130;10;10;10</additional_attributes></element><element><id>UMLClass</id><coordinates><x>90</x><y>370</y><w>210</w><h>260</h></coordinates><panel_attributes>Producto
+--
+idProducto: number
+nombre: string
+precio: number
+contadorProductos: number
+-- 
+Producto()
+getIdProducto(): number
+getNombre(): string
+setNombre(nombre: string)
+getPrecio(): number
+setPrecio(precio: number)
+toString(): string
+--
+Responsabilidades
+- Crear objetos de tipo Producto </panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>180</x><y>300</y><w>30</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element></diagram>
